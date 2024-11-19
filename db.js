@@ -1,5 +1,5 @@
 // const mongoose = require("mongoose");
-// mongoose.connect("mongodb+srv://admin:0000@cluster0.u8gug.mongodb.net/valorant-team-builder")
+// mongoose.connect("")
 // const Schema = mongoose.Schema;
 // const ObjectId = mongoose.ObjectId;
 
